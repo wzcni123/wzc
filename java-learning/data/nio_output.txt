@@ -1,0 +1,4 @@
+这是用 NIO Files.write 写入的文件。
+比传统 FileWriter 更简洁方便。
+Java 7+ 推荐使用！
+这是追加的一行。
